@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **achmadfathoni2004@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/xf1b3f4wl76lr08/SERTIFIKAT%20PRESTASI.pdf?dl=0](https://www.dropbox.com/s/xf1b3f4wl76lr08/SERTIFIKAT%20PRESTASI.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
