@@ -1,0 +1,41 @@
+from collections import deque
+
+graph = {
+    'Arad': ['Zerind', 'Timisoara', 'Sibiu'],
+    'Zerind': ['Arad', 'Oradea'],
+    'Oradea': ['Zerind', 'Sibiu'],
+    'Sibiu': ['Arad', 'Oradea', 'Fagaras', 'Rimnicu Vilcea'],
+    'Timisoara': ['Arad', 'Lugoj'],
+    'Lugoj': ['Timisoara', 'Mehadia'],
+    'Mehadia': ['Lugoj', 'Dobreta'],
+    'Dobreta': ['Mehadia', 'Craiova'],
+    'Craiova': ['Dobreta', 'Rimnicu Vilcea', 'Pitesti'],
+    'Rimnicu Vilcea': ['Sibiu', 'Craiova', 'Pitesti'],
+    'Fagaras': ['Sibiu', 'Bucharest'],
+    'Pitesti': ['Rimnicu Vilcea', 'Craiova', 'Bucharest'],
+    'Bucharest': ['Fagaras', 'Pitesti', 'Giurgiu'],
+    'Giurgiu': ['Bucharest']
+}
+
+def bfs(start, goal):
+    visited = set()
+    queue = deque([(start, [start])])
+    all_routes = []
+
+    while queue:
+        (node, path) = queue.popleft()
+        if node not in visited:
+            visited.add(node)
+            all_routes.append(node)
+            if node == goal:
+                print("Rute yang dilalui menggunakan metode BFS:", ' → '.join(all_routes))
+                return
+            for neighbor in graph.get(node, []):
+                if neighbor not in visited:
+                    queue.append((neighbor, path + [neighbor]))
+    print("Rute tidak ditemukan.")
+
+if __name__ == "__main__":
+    start_city = input("Masukkan kota asal: ")
+    goal_city = input("Masukkan kota tujuan: ")
+    bfs(start_city, goal_city)
