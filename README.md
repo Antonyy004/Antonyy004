@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Achmad Fathoni</h1>
-<h3 align="center">Im an Active Student at UPN "Veteran' Jawa Timur ,Faculty of Computer Science,Informatics Majoring</h3>
-
 🎓 Informatics student at UPN "Veteran" East Java  
 🚀 Actively learning frontend development & software engineering principles  
 📫 Reach me at: [achmadfathoni2004@gmail.com](mailto:achmadfathoni2004@gmail.com)
