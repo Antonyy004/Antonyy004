@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achmad Fathoni</h1>
 <h3 align="center">Im an Active Student at UPN "Veteran' Jawa Timur ,Faculty of Computer Science,Informatics Majoring</h3>
-<img align="right" alt="coding" width="400" 
 
 - 🌱 I’m currently learning **Programming**
 
