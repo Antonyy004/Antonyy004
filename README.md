@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Achmad Fathoni</h1>
+
+<p align="center">
 🎓 Informatics student at UPN "Veteran" East Java  
-🚀 Actively learning frontend development & software engineering principles  
-📫 Reach me at: [achmadfathoni2004@gmail.com](mailto:achmadfathoni2004@gmail.com)
+<br>🚀 Actively learning frontend development & software engineering principles  
+<br>📫 Reach me at: <a href="mailto:achmadfathoni2004@gmail.com">achmadfathoni2004@gmail.com</a>
+</p>
+
+---
 
 ### 💻 Languages & Tools I Use
 
-<p align="left">
+<p align="center">
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <!-- C++ -->
@@ -24,12 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <!-- Dart (untuk Flutter) -->
+  <!-- Dart -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
 </p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/antony.5_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antony.5_" height="30" width="40" /></a>
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://instagram.com/antony.5_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
 </p>
