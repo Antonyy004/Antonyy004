@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Informatics student at UPN "Veteran" East Java  
-<br>🚀 Actively learning frontend development & software engineering principles  
+<br>🚀 Actively learning Software Engineering & C++  
 <br>📫 Reach me at: <a href="mailto:achmadfathoni2004@gmail.com">achmadfathoni2004@gmail.com</a>
 </p>
 
